@@ -28,7 +28,7 @@ npm start
 ![Task State Change](images/task-state-change.png)
 
 ## Project Live Link
-https://task-managment-w3.netlify.app/
+https://task-management-app-react.netlify.app/
 ## Acknowledgements
 (JSONPlaceholder)[https://jsonplaceholder.typicode.com/] for the free REST API<br>
 (Tailwind CSS)[https://tailwindcss.com/] for the styling framework<br>
